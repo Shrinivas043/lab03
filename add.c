@@ -1,0 +1,5 @@
+hi
+{
+	printf("good night");
+}
+
